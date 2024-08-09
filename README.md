@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**rithviksopinti/rithviksopinti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Welcome👋</h2>
 
-Here are some ideas to get you started:
+<br/>
+<h3> 👨🏻‍💻 &nbsp;About </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m Rithvik
+- 👀 I’m interested in AI-ML
+- 🌱 I’m currently learning Python ML
+
+<br/>
+
+<h3>💻 &nbsp;Skills</h3>
+
+
+<p align="center">
+<img alt="medium" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="medium" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+<p align="center">
+<img alt="medium" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="medium" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="medium" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+<p align="center">
+<img alt="medium" src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15"/>
+<img alt="medium" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
+<img alt="medium" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</p>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect! </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rithvik-sopinti-843695300/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/rithvik.0_0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:rithvikpersonal0.0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
